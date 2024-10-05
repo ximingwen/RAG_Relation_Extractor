@@ -1,0 +1,10 @@
+{
+    "label_map_path": "config_files/label_map.json",
+    "labels_path": "config_files/labels.txt",
+    "EntityA": "[ENTITY_A]", 
+    "EntityB": "[ENTITY_B]",
+    "epochs" : 3,
+    "learning_rate" : 0.00002,
+    "n_classes" : 5,
+    "RE_Tokenizer_MaxLength": 512
+}
